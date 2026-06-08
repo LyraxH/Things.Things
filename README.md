@@ -20,3 +20,9 @@ Nix
 
 ## Devices
 jolla phone
+
+
+## NVIM
+- Space + f + f to open fzf finder
+- space + e = neo tree
+- ctrl + t = terminal
