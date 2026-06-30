@@ -11,7 +11,17 @@ Things
  - convertx self hosted file converter
  - ffmpeg
  - degood
- - glance dashboard
+ - glance dashboard (glance again)
+ - calcurse
+ - taskwarrior
+ - wordgrinder ( word preocessor, supports paragraphstiles, exports to html, md)
+ - freedombox
+ - yunohost
+ - truenas
+ - rockstor btrfs powered nas
+ - zentyal
+ - ratty terminal...?
+ - 
 
 ## Distros
  - Aeryn OS
@@ -26,3 +36,9 @@ Things
 - Space + f + f to open fzf finder
 - space + e = neo tree
 - ctrl + t = terminal
+
+
+## fuck windows
+ - bleachbit
+
+ ## Raspberry pi
